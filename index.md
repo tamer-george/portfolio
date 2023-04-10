@@ -18,7 +18,7 @@
 
 ### Digital Marketing 
 
-- [DM Presentation](/pdf/DM%202018-Final%20Presentation.pdf)
+- [DM Presentation](/pdf/DM 2018-Final Presentation.pdf)
 
 
 ---
