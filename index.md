@@ -8,7 +8,7 @@
 <img src="images/Customer-segmentation.png?raw=true"/>
 
 ---
-[Project 2 Title]()
+[Data Analysis and Visualization Python Package]()
 <img src="images/dataanalysis.jpg?raw=true"/>
 
 ---
