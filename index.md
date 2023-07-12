@@ -8,7 +8,9 @@
 <img src="images/Customer-segmentation.png?raw=true"/>
 
 ---
-[Data Analysis and Visualization Python Package](https://tamer-george.github.io/docs/_build/html/index.html)
+
+### Data Visualization 
+[Python Package](https://tamer-george.github.io/docs/_build/html/index.html)
 <img src="images/dataanalysis.jpg?raw=true"/>
 
 ---
