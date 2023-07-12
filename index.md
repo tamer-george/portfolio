@@ -5,7 +5,7 @@
 ### EDA 
 
 [Customer Segmentation](https://tamer-george.github.io/mallCustomers/)
-<img src="images/Customer-segmentation.png?raw=true"/>
+<img src="images/dataset-cover.jpg?raw=true"/>
 
 ---
 
