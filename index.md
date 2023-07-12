@@ -4,7 +4,7 @@
 
 ### Data Analysis 
 
-[Customer Segmentation](https://tamer-george.github.io/mallCustomers/))
+[Customer Segmentation](https://tamer-george.github.io/mallCustomers/)
 <img src="images/Customer-segmentation.png?raw=true"/>
 
 ---
