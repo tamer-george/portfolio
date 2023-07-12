@@ -11,7 +11,7 @@
 
 ### Data Visualization 
 [Python Package](https://tamer-george.github.io/docs/_build/html/index.html)
-<img src="images/dataanalysis.jpg?raw=true"/>
+<img src="images/datavis.png?raw=true"/>
 
 ---
 
