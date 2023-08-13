@@ -1,5 +1,12 @@
 ## Portfolio
+---
 
+### Sales DashBoard 
+
+[Customer Segmentation](https://tamer-george.github.io/mallCustomers/)
+<img src="images/tableau.png?raw=true"/>
+
+---
 ---
 
 ### EDA 
