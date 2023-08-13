@@ -3,7 +3,7 @@
 
 ### Sales DashBoard 
 
-[Customer Segmentation](https://tamer-george.github.io/mallCustomers/)
+[Sales_DashBoard](https://public.tableau.com/authoring/SalesDashBoard_16915704901950/Dashboard1#1)
 <img src="images/tableau.png?raw=true"/>
 
 ---
