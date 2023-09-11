@@ -3,7 +3,7 @@ ____
 
 ### Austin Airbnb Data Analysis
 
-[Sales_DashBoard](https://tamer-george.github.io/final_Project_DataAnalysis/)
+[AirBnb_Austin_Project](https://tamer-george.github.io/final_Project_DataAnalysis/)
 <img src="images/header.png?raw=true"/>
 
 ---
@@ -29,13 +29,13 @@ ____
 <img src="images/datavis.png?raw=true"/>
 
 ---
-### Airbnb_Final_Project_Presentation 
+### Austin Project Presentation (power point)
 
 - [Data_Analysis_Project](/pdf/final_Project_Presentation.pptx)
 
 ---
 
-### Digital Marketing 
+### Digital Marketing (pdf file)
 
 - [DM Presentation](/pdf/DM 2018-Final Presentation.pdf)
 
