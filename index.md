@@ -1,5 +1,5 @@
 ## Portfolio
----
+____
 
 ### Austin Airbnb Data Analysis
 
@@ -29,7 +29,9 @@
 <img src="images/datavis.png?raw=true"/>
 
 ---
+### Airbnb_Final_Project_Presentation 
 
+- [Data_Analysis_Project](/pdf/final_Project_Presentation.pptx)
 
 ---
 
