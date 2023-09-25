@@ -11,7 +11,7 @@ ____
 
 ### Advanced SQL Queires  
 
-[Sales_DashBoard](https://public.tableau.com/app/profile/tamer.samara/viz/SalesDashBoard_16915704901950/Dashboard1#1)
+[Advanced_SQL_Queries](https://tamer-george.github.io/Advanced_SQL_Quires/)
 <img src="images/sql.png?raw=true"/>
 
 ---
