@@ -12,7 +12,7 @@ ____
 ### Advanced SQL Queires  
 
 [Sales_DashBoard](https://public.tableau.com/app/profile/tamer.samara/viz/SalesDashBoard_16915704901950/Dashboard1#1)
-<img src="images/tableau.png?raw=true"/>
+<img src="images/sql.png?raw=true"/>
 
 ---
 ---
