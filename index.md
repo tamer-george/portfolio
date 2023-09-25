@@ -9,7 +9,7 @@ ____
 ---
 ---
 
-### Advanced SQL Queires  
+### Advanced SQL Queries  
 
 [Advanced_SQL_Queries](https://tamer-george.github.io/Advanced_SQL_Quires/)
 <img src="images/sql.png?raw=true"/>
