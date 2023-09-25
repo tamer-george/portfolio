@@ -11,7 +11,7 @@ ____
 
 ### Advanced SQL Queries  
 
-[Advanced_SQL_Queries](https://tamer-george.github.io/Advanced_SQL_Quires/)
+[Advanced_SQL_Queries](https://tamer-george.github.io/Advanced_SQL_Queries/)
 <img src="images/sql.png?raw=true"/>
 
 ---
