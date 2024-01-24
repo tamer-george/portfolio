@@ -9,7 +9,7 @@ ____
 ---
 ---
 
-### Data Visualization 
+### Sales Analysis
 [Sales_Data_Analysis](https://tamer-george.github.io/retailDataset/)
 <img src="images/datavis.png?raw=true"/>
 
@@ -24,7 +24,7 @@ ____
 ---
 ---
 
-### Sales DashBoard 
+### Tableau DashBoard 
 
 [Sales_DashBoard](https://public.tableau.com/app/profile/tamer.samara/viz/SalesDashBoard_16915704901950/Dashboard1#1)
 <img src="images/tableau.png?raw=true"/>
