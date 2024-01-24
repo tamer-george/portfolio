@@ -46,14 +46,3 @@ ____
 
 ---
 
-### Digital Marketing (pdf file)
-
-- [DM Presentation](/pdf/DM 2018-Final Presentation.pdf)
-
-
----
-
-
-
-
-
