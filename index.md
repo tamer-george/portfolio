@@ -32,7 +32,7 @@ ____
 ---
 ---
 
-### EDA 
+### EDA + Customer Segmentation
 
 [Customer Segmentation](https://tamer-george.github.io/mallCustomers/)
 <img src="images/dataset-cover.jpg?raw=true"/>
