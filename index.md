@@ -9,6 +9,13 @@ ____
 ---
 ---
 
+### Data Visualization 
+[Sales_Data_Analysis](https://tamer-george.github.io/retailDataset/)
+<img src="images/datavis.png?raw=true"/>
+
+---
+---
+
 ### Advanced SQL Queries  
 
 [Advanced_SQL_Queries](https://tamer-george.github.io/Advanced_SQL_Queries/)
@@ -31,10 +38,6 @@ ____
 <img src="images/dataset-cover.jpg?raw=true"/>
 
 ---
-
-### Data Visualization 
-[Python Package](https://tamer-george.github.io/docs/_build/html/index.html)
-<img src="images/datavis.png?raw=true"/>
 
 ---
 ### Austin Project Presentation (power point)
